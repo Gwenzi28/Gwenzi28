@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gwenzi28
-- 👀 I’m interested in ...python,sql,Excel and Power BI
-- 🌱 I’m currently learning ... Pentesting
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Python,MySql,Excel and Power BI
+- 🌱 I’m currently learning ... CyberSecurity/Pentesting
+- 💞️ I’m looking to collaborate on ... Machine Learning, Numpy, Pandas DataFrames, Burp and Splunk
 - 📫 How to reach me ...bernard.gwenzi.org
 
 <!---
